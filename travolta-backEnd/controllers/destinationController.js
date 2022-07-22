@@ -12,7 +12,6 @@ destinationRouter.get('/', (req, res, next) => {
 destinationRouter.post('/', (req, res, next) => {
   const { Destination: id } = req.body;
   const destinationInfo = distinationsHotels.find((d) => d.id === +id);
-
   res.send(destinationInfo);
 });
 module.exports = destinationRouter;

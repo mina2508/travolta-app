@@ -9,12 +9,10 @@ const initialState = {
 export const fetchDestination = createAsyncThunk(
   'destination/fetchDestination',
   async (reservationDetails) => {
-    console.log(reservationDetails);
     const response = await axios.post(
       'http://localhost:5000/detinations',
       reservationDetails
     );
-    console.log(response.data.hotels);
     return response.data;
   }
 );
