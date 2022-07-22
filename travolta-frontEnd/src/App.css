@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.header-title {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  word-spacing: 10px;
+  margin-top: 10%;
+}
+.header-paragraph {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.search-btn {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 0.5rem 3rem;
+}
+.error {
+  color: rgb(252, 0, 0);
+}
+.hotels-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

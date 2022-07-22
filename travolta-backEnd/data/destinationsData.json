@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "destination": "cairo,Egypt",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "hotel1",
+        "availableRooms": 5,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 2,
+        "name": "hotel2",
+        "availableRooms": 2,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 3,
+        "name": "hotel3",
+        "availableRooms": 4,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 4,
+        "name": "hotel4",
+        "availableRooms": 1,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 5,
+        "name": "hotel5",
+        "availableRooms": 15,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "hotel6",
+        "availableRooms": 26,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "destination": "Al,USA",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "hotel1",
+        "availableRooms": 5,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 2,
+        "name": "hotel2",
+        "availableRooms": 2,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 3,
+        "name": "hotel3",
+        "availableRooms": 4,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 4,
+        "name": "hotel4",
+        "availableRooms": 1,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 5,
+        "name": "hotel5",
+        "availableRooms": 15,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "hotel6",
+        "availableRooms": 26,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "destination": "Astan,Turkey",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "hotel1",
+        "availableRooms": 5,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 2,
+        "name": "hotel2",
+        "availableRooms": 2,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 3,
+        "name": "hotel3",
+        "availableRooms": 4,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 4,
+        "name": "hotel4",
+        "availableRooms": 1,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 5,
+        "name": "hotel5",
+        "availableRooms": 15,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "hotel6",
+        "availableRooms": 26,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "destination": "London,Uk",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "hotel1",
+        "availableRooms": 5,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 2,
+        "name": "hotel2",
+        "availableRooms": 2,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 3,
+        "name": "hotel3",
+        "availableRooms": 4,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 4,
+        "name": "hotel4",
+        "availableRooms": 1,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 5,
+        "name": "hotel5",
+        "availableRooms": 15,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "hotel6",
+        "availableRooms": 26,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "destination": "Alex,Egypt",
+    "hotels": [
+      {
+        "id": 1,
+        "name": "hotel1",
+        "availableRooms": 5,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 2,
+        "name": "hotel2",
+        "availableRooms": 2,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 3,
+        "name": "hotel3",
+        "availableRooms": 4,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 4,
+        "name": "hotel4",
+        "availableRooms": 1,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      },
+      {
+        "id": 5,
+        "name": "hotel5",
+        "availableRooms": 15,
+        "price": "5 USD",
+        "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "hotel6",
+        "availableRooms": 26,
+        "price": "5 USD",
+        "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+      }
+    ]
+  }
+]
