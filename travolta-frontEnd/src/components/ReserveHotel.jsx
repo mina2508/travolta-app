@@ -5,7 +5,7 @@ import axios from 'axios';
 import validationSchema from '../helpers/validationSchema';
 import { fetchDestination } from '../features/destination/destinationSlice';
 const initialValues = {
-  Destination: '',
+  Destination: 'Select Destination',
   StartDate: '',
   EndDate: '',
   GuestsNumber: 1,
